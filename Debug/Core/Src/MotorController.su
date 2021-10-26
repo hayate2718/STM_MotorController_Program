@@ -1,0 +1,4 @@
+MotorController.cpp:12:1:MotorController::MotorController(CAN_HandleTypeDef*, uint8_t)	24	static
+MotorController.cpp:22:6:void MotorController::set_cmd(uint32_t, float)	24	static
+MotorController.cpp:27:7:float MotorController::get_cmd(uint32_t)	16	static
+MotorController.cpp:34:6:void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)	16	static

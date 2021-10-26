@@ -1,0 +1,6 @@
+CAN.cpp:12:1:USER_CAN::USER_CAN(CAN_HandleTypeDef*)	16	static
+CAN.cpp:38:6:void USER_CAN::use_tx_CAN(uint32_t, float)	40	static
+CAN.cpp:49:6:void USER_CAN::set_id_CAN(uint8_t)	16	static
+CAN.cpp:55:6:void USER_CAN::filter_set()	16	static
+CAN.cpp:61:6:void USER_CAN::use_rx_CAN(CAN_HandleTypeDef*)	56	static
+CAN.cpp:78:10:uint64_t USER_CAN::use_read_CAN(uint32_t)	16	static
